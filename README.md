@@ -12,9 +12,7 @@
 - **Version Control:** Git & GitHub
 
 ## 📈 Featured Projects
-*(Once you upload your Power BI projects, you will link them here!)*
-- [Project 1 Name] - Brief description of what you analyzed.
-- [Project 2 Name] - Brief description of the insights found.
+
 
 ## 📫 Let's Connect
 - [LinkedIn](INSERT_YOUR_LINK_HERE)
